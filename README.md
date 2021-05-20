@@ -1,4 +1,5 @@
 ## Teachable Machine Image Project Git Hosting
+## 인공지능 모델 만들기
 날짜 5월 20일 목요일
 인공지능 모델 만들기
 사진모으기
