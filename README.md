@@ -1,5 +1,5 @@
 ## Teachable Machine Image Project Git Hosting
-## **주제:🍯꿀벌과 말벌구분하기🍯
+## ** 주제:🍯꿀벌과 말벌구분하기🍯
 ## 인공지능 모델 만들기
 ## 날짜 5월 20일 목요일
 ### 인공지능 모델 만들기
