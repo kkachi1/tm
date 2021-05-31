@@ -18,7 +18,7 @@
 ## 3.Techable Machine 학습시키기
 따로 섞어낸 사진들을 techable machine에 새로운 모델을 만들고 그곳에 사진들을 넣는다. 사진들을 다 넣었으면 학습을 시킨다.
 ## 이미지 프로젝트
-
+ https://teachablemachine.withgoogle.com/models/B5yPDPXfe/
 
 
 ## 날짜 5월 20일 목요일
